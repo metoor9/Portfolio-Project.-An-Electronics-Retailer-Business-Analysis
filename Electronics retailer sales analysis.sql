@@ -275,7 +275,7 @@ order by 1,4;
 
 
 -- 8. ABC value product judgement (driving the revenue)
--- A 20% items->80% value; B 30->15; C 50->5 
+-- A 20% items->80% value; B 30% items->15% value; C 50% items->5% value
 
 select
 a.productid,
